@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aman-kumar-developer.github.io/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/aman-kumar-177811348/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aman-kumar-developer/">LinkedIn</a> •
   <a href="https://github.com/Aman-Kumar-Developer">GitHub</a>
 </p>
 

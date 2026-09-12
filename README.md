@@ -56,15 +56,6 @@ A Java-based utility for processing browser bookmark data, validating bookmark l
 - Working with **Docker and Docker Compose**
 - Exploring **Apache Kafka and asynchronous messaging**
 - Progressively expanding toward **Java full-stack development**
-
-## 🎓 Education
-
-**Bachelor of Technology — Computer Science and Engineering**  
-Krishna Engineering College, Ghaziabad, Uttar Pradesh, India · 2021–2025
-
-## 📜 Certifications & Training
-
-- **Java Full Stack Development Training — Ducat India**
 - **AWS Academy Graduate — Cloud Architecting**
 - **Data Analysis using Python — Anudip Foundation Skill and Career Development Center**
 
